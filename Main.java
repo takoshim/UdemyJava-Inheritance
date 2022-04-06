@@ -8,5 +8,8 @@ public class Main {
         dog.eat();
         dog.walk();
         // dog.run();
+
+        Fish fish = new Fish("Carp", 2, 2, 2, 2, 5);
+        fish.swim();
     }
 }
